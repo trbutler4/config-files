@@ -1,0 +1,16 @@
+
+[env]
+term = "xterm-256color"
+
+[window]
+decorations = "Buttonless"
+opacity = 0.75
+blur = true
+padding = { x = 2, y = 2 }
+
+
+[font]
+size = 16
+
+[font.normal]
+family="0xProto Nerd Font Mono"
